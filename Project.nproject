@@ -1,6 +1,7 @@
 {
     "name": "RTS Medieval",
-    "guid": "a4867665-17f0-48b4-b8ea-1cffdba6a6a3",
+    "guid": "1d51e0f6-d1fc-4d56-bbba-14691d383492",
+    "database_guid": "f2e5264d-4ff2-ce05-0727-c1dd6902f0f4",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,9 +12,10 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "f219ecab-2683-4910-8f8e-9309bbe2eb9f",
-    "default_scene": "c8fa9ab1-9280-4819-a1e7-4fa252cdb233",
+    "thumbnail_guid": "c78ee6bf-a440-ae86-420f-8518b27a149a",
+    "default_scene": "b7bf3d01-f193-4f61-a713-c9431f115dee",
     "source": "Project.nproject",
+    "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
 			"type": "EF61ECBA-906C-481A-B501-966A6BB4729C",

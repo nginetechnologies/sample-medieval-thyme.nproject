@@ -1,44 +1,22 @@
 {
-    "3ab745aa-6a7d-608d-321a-60e00705f78f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Mindkraft_EnviroSpecular.tex.nasset"
-    },
-    "9121efae-d908-466f-813c-24e57a01d5f3": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/M_Skybox.mtli.nasset",
-        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
-    },
-    "a4867665-17f0-48b4-b8ea-1cffdba6a6a3": {
+    "1d51e0f6-d1fc-4d56-bbba-14691d383492": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "thumbnail": "f219ecab-2683-4910-8f8e-9309bbe2eb9f"
+        "name": "RTS Medieval",
+        "thumbnail": "c78ee6bf-a440-ae86-420f-8518b27a149a"
     },
-    "a6e8b812-86ee-20ce-4d85-fe4a3ec07690": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_Skybox.tex.nasset"
-    },
-    "c2940fa0-88d1-e650-7003-f9e85ffe8c39": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Mindkraft_Enviro.tex.nasset"
-    },
-    "c8fa9ab1-9280-4819-a1e7-4fa252cdb233": {
+    "b7bf3d01-f193-4f61-a713-c9431f115dee": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/RTS Medieval.scene.nasset"
+        "path": "Assets/Medieval Thyme.scene.nasset"
     },
-    "d9fa4ff1-8968-23db-8e67-77642cb4d88e": {
+    "c78ee6bf-a440-ae86-420f-8518b27a149a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Mindkraft_EnviroDiffuse.tex.nasset"
+        "path": "Assets/Thumbnail/Medieval_Thyme_Thumb.tex.nasset"
     },
-    "e95160b5-9f01-a360-4319-88759e54333f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
+    "f2e5264d-4ff2-ce05-0727-c1dd6902f0f4": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
     },
-    "f2e8ba53-5324-4472-bed9-549f13981b65": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Player/Player.scene.nasset",
-        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
-    }
+    "guid": "f2e5264d-4ff2-ce05-0727-c1dd6902f0f4"
 }
