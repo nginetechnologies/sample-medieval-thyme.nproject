@@ -2,7 +2,7 @@
     "1d51e0f6-d1fc-4d56-bbba-14691d383492": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "name": "RTS Medieval",
+        "name": "Medieval Thyme",
         "thumbnail": "c78ee6bf-a440-ae86-420f-8518b27a149a",
         "tags": [
             "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
@@ -19,9 +19,6 @@
     },
     "guid": "f2e5264d-4ff2-ce05-0727-c1dd6902f0f4",
     "imported_assets": [
-        "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b",
-        "d9fa4ff1-8968-23db-8e67-77642cb4d88e",
-        "3ab745aa-6a7d-608d-321a-60e00705f78f",
         "003f7749-c1d4-126d-c2f6-bb496612ba63",
         "01032196-4064-65f1-482f-b43374ee8375",
         "0166f999-1f16-fc55-9840-19f5f256e8e3",
@@ -177,6 +174,7 @@
         "39765130-fc20-274c-d99f-a158cb6008fd",
         "39c78382-3009-3a5f-3978-bcdec6f75cce",
         "3aa32a29-3c0c-d2a2-23af-5f8f6a03ffb8",
+        "3ab745aa-6a7d-608d-321a-60e00705f78f",
         "3abda842-7e2f-039b-da0b-a6c8aeee7c2e",
         "3bd6b71d-8410-566c-e95c-cd6031a8b04f",
         "3bd73ead-0280-e6a2-17a3-1101640f0df9",
@@ -263,6 +261,7 @@
         "5905df5b-c979-f501-3e49-6ebecc4e00f3",
         "5939cb47-40b9-705b-8e9a-d5a235d9d4ed",
         "59d88d8e-a5cb-f298-c98f-2c5a8771347b",
+        "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b",
         "5bf044a8-43fa-72d8-ed58-3cef0fbcb5b0",
         "5c2729d0-f6a4-e5fd-6008-3da2c6618342",
         "5c8bdf1b-88a1-4ba5-435f-6c964b8bd2e7",
@@ -587,6 +586,7 @@
         "d8d76bc5-a003-73a2-96fc-5927068acb4a",
         "d8ff6704-31c1-58b3-2a33-554bd3c432be",
         "d9566843-e9f6-5670-a47f-affbc70c9469",
+        "d9fa4ff1-8968-23db-8e67-77642cb4d88e",
         "da1db95c-ca6b-f4ad-dd8d-6105be030d47",
         "daf3d890-06a2-9b5a-3155-0eff4a76c9fa",
         "db1c0a82-ff6a-adba-5299-131cbfd23976",
